@@ -5,6 +5,8 @@
 // 5 5 5 5 5 
 
 
+//Pattern problem
+
 #include <iostream>
 using namespace std;
 int main(){
